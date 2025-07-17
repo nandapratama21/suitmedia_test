@@ -3,6 +3,6 @@
 **State Management:** Provider
 
 **Release APK Location:**
-`build/app/outputs/flutter-apk/app-release.apk`
+`releases/suitmedia_test.apk`
 
 ---
