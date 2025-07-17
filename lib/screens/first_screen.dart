@@ -29,7 +29,7 @@ class _FirstScreenState extends State<FirstScreen> {
       return;
     }
     bool result = isPalindrome(inputText);
-    return _showDialog(result ? 'isPalindrome' : 'Not palindrome');
+    return _showDialog(result ? 'isPalindrome' : 'not palindrome');
   }
 
   // Function to show a dialog with the result
